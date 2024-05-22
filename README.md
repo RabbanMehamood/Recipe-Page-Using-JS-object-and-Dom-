@@ -7,7 +7,7 @@ A simple recipe page create using javascript object with object methods and DOM.
 
 ## Features
 
-- Dessert and its Recipe
+- Tomato Pasta Image and its Recipe
 - User-friendly interface
 - Responsive design
 
